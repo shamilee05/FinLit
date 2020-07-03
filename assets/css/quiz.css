@@ -1,0 +1,225 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  /*  background-image:url(greybg.png);
+*/
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#navContent {
+  margin: auto;
+  width: 800px;
+  height: 500px;
+  position: relative;
+  overflow: hidden;
+}
+
+#game1 {
+  margin: auto;
+  width: 800px;
+  height: 800px;
+  right: 0px;
+  position: absolute;
+}
+
+#game2 {
+  margin: auto;
+  width: 800px;
+  height: 500px;
+  right: -800px;
+  position: absolute;
+}
+
+.questionText,
+.scoreText {
+  font-size: 3vh;
+  color: #fff;
+}
+
+.infoText {
+  font-size: 20px;
+  color: #fff;
+}
+
+.option {
+  width: 500px;
+  height: 60px;
+  margin: 15px;
+  font-size: 2.25vh;
+  color: #ffffff;
+  padding: 2px;
+  padding-left: 10px;
+  border: 2px solid white;
+  cursor: pointer;
+  background-color: #3399ff;
+}
+
+.hintButton {
+  height: 30px;
+  width: 100px;
+  font-size: 18px;
+  color: #ffffff;
+  text-align: center;
+  border: 2px solid white;
+  cursor: pointer;
+  background-color: #3399ff;
+  margin-left: 300px;
+  position: relative;
+  display: inline-block;
+}
+
+.hintButton .hint {
+  visibility: hidden;
+  width: 300px;
+  background-color: #3399ff;
+  color: #fff;
+  text-align: center;
+  border-radius: 6px;
+  padding: 5px 0;
+  position: absolute;
+  z-index: 1;
+  bottom: 125%;
+  left: 50%;
+  margin-left: -60px;
+  opacity: 0;
+  transition: opacity 0.3s;
+  border: 2px solid white;
+}
+
+.hintButton .hint::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #555 transparent transparent transparent;
+}
+
+.hintButton:hover .hint {
+  visibility: visible;
+  opacity: 1;
+}
+
+.option:hover {
+  border: #fc0 solid 2px;
+  color: #fc0;
+}
+
+#topbar {
+  height: 50px;
+  margin: auto;
+  margin-top: 50px;
+  color: #fff;
+  font-size: 36px;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 800px;
+  border-bottom: solid white 1px;
+}
+
+#timer {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: right;
+  margin-right: 315px;
+  color: #fff;
+  font-size: 20px;
+}
+
+.spacer {
+  height: 30px;
+}
+
+.feedback1 {
+  width: 150px;
+  padding: 5px;
+  font-size: 3vh;
+  color: #ffffcc;
+  background-color: #009900;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.feedback2 {
+  width: 150px;
+  padding: 5px;
+  font-size: 3vh;
+  color: #ffffcc;
+  background-color: #cc3300;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+@media screen and (max-width: 800px) {
+  #topbar {
+    margin-left: 1%;
+    margin-right: 1%;
+    width: 96%;
+  }
+  #navContent {
+    margin: 1%;
+    width: 98%;
+  }
+  #game1 {
+    margin: 1%;
+    width: 98%;
+  }
+  #game2 {
+    margin: 1%;
+    width: 98%;
+  }
+}
+@media screen and (max-width: 460px) {
+  .option {
+    width: 80%;
+    margin: 5%;
+  }
+}
+
+/* For explanation of each question */
+/* The Modal (background) */
+.modal {
+  display: none; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Sit on top */
+  padding-top: 200px; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0, 0, 0); /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+.modal-content {
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #888;
+  width: 700px;
+  height: 450px;
+  background-color: #3399ff;
+  border: 2px solid white;
+  text-align: center;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
+
+/* The Close Button */
+.close {
+  color: #aaaaaa;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+  text-align: right;
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
