@@ -7,6 +7,9 @@ FinLit is our attempt to make the process of improving your **financial literacy
 **Domains: Banking, Tax, Loans, Investments**
 Upto 160 questions and concepts to learn and crack!
 
+Since, our application is a **Progressive Web Application or PWA**, you can use it on any device - Laptop, Desktop, Mobile phone - regardless!
+
+
 How to use our app?
 - Starting off with our **Home Page**, if you are a new user, we would require you to attempt the **Initiation quiz** on the Banking domain:
 
