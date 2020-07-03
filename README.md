@@ -8,18 +8,22 @@ FinLit is our attempt to make the process of improving your **financial literacy
 Upto 160 questions and concepts to learn and crack!
 
 How to use our app?
-- Starting off with our **Home Page**, if you are a new user, we would want you to attempt the **Initiation quiz** on the Banking domain:
-- An **Initiation quiz** is a **9-question no-timer, no-hint quiz** that simply aims to understand how much you already know about finance, specifically Banking. We will classify into 1 of our 3 levels - **Beginner, Intermediate or Expert** based on your results:
-- After you are done, you can proceed to register yourselves with us as below:
-- If you are an already registered user, you can just select the Login option from the Home Page and log in directly:
-- After you are registered/logged in, you will be redirected to the Dashboard. The **Dashboard** is where you can attempt more quizzes, view your progress and check out the Facebook share feature!
-- We have 4 domains on our application. Choose whichever you want to start attempting the quizzes for it. If you continue with Banking, you will be directed to the **Secondary quiz**. As for other domains, you will need to attempt the Initiation quizzes for them before proceeding to the Secondary quizzes.
+- Starting off with our **Home Page**, if you are a new user, we would require you to attempt the **Initiation quiz** on the Banking domain:
+
+- An **Initiation quiz** is a **9-question no-timer, no-hint quiz** that simply aims to understand how much you already know about finance, specifically Banking. We will classify you into 1 of our 3 levels - **Beginner, Intermediate or Expert** based on your results:
+
+- After you are done, you can proceed to register yourself with us as below from the **Register** page:
+
+- If you are already a registered user, you can simply select the **Login** option from the Home Page and log in directly:
+
+- After you are registered/logged in, you will be redirected to the Dashboard. The **Dashboard** is where you can attempt more quizzes, view your progress and check out the Facebook share feature! We have 4 domains on our application. Choose whichever you want to start attempting the quizzes for. If you continue with Banking, you will be directed to the **Secondary quiz**. As for the other domains, you will need to attempt the Initiation quizzes for them before proceeding to the Secondary quizzes:
+
 - The **Secondary quiz** is a **continuous, 30-second-per-question quiz wherein we will be giving you hints (wherever required) and explanations!** You will be continuously assessed at every stage of the quiz and will be shown intermediate results as below:
 
 For every question, you will be awarded **15 points if you answer within the first 10 seconds, 10 points if you answer within 20 seconds, 5 points if you answer within 30 seconds and 0 if you answer correctly but take beyond 30 seconds**. Don't worry though, we won't deduct anything from your scores if you answer incorrectly. Answer as much correctly as you can and you will score more points and ultimately become an expert in finances!
 
--  In case you feel like you could use with some help with the quizzes, head back to the Dashboard to go to the **Info Bites** section for a particular domain. Herein, we give you pieces of information that help you learn concepts and gain knowledge that can help you with your quizzes!
+-  In case you feel like you could use with some help with the quizzes, head back to the Dashboard to go to the **Info Bites** section for a particular domain. Herein, we give you pieces of information that help you learn concepts that can help you with your quizzes:
 
 - On your Dashboard, you can also see your progress by accessing the **My Profile** Page. Herein, we show you the levels of expertise you have earned in each of the domains via the quizzes:
 
-- Finally, you can use our **Facebook Share** feature that will access your Facebook account to help you post the link to our website on your Facebook wall. This way, you can have your friends know about us and can even invite them to use our website!
+- Finally, you can use our **Facebook Share** feature that will access your Facebook account to help you post the link to our website on your Facebook wall. This way, you can have your friends know about us and can even invite them to use our website:
