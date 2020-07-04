@@ -9,6 +9,10 @@ Upto 160 questions and concepts to learn and crack!
 
 Since, our application is a **Progressive Web Application or PWA**, you can use it on any device - Laptop, Desktop, Mobile phone - regardless!
 
+- If you are using your mobile, open our website on a compatible web browser and choose the option 'Add to Home Screen':
+
+- The website gets saved as an application on your phone. You can open it and use it like any other native application!
+
 
 How to use our app?
 - Starting off with our **Home Page**, if you are a new user, we would require you to attempt the **Initiation quiz** on the Banking domain:
