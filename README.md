@@ -9,11 +9,16 @@ Upto 160 questions and concepts to learn and crack!
 
 Since, our application is a **Progressive Web Application or PWA**, you can use it on any device - Laptop, Desktop, Mobile phone - regardless!
 
-- If you are using your mobile, open our website on a compatible web browser and choose the option 'Add to Home Screen':
-![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/PWA_1.PNG) <br>
+- If you are using your mobile, open the website on a compatible web browser and choose the option 'Add to Home Screen':
 
-- The website gets saved as an application on your phone. You can open it and use it like any other native application!
+![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/PWA_1.PNG) <br>
 ![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/PWA_2.PNG) <br>
+
+
+- The website gets saved as an application on your phone. You can open it and use it like any other native application!:
+
+![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/PWA_3.PNG) <br>
+![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/PWA_4.PNG) <br>
 
 
 How to use our app?
