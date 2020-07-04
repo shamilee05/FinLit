@@ -13,15 +13,14 @@ Since, our application is a **Progressive Web Application or PWA**, you can use 
 
 ![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/PWA_1.PNG) <br>
 
-![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/PWA_2.PNG) <br>
-
+![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/PWA_2.PNG) <br><br>
 
 
 - The website gets saved as an application on your phone. You can open it and use it like any other native application!:
 
 ![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/PWA_3.jpg) <br>
 
-![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/PWA_4.PNG) <br>
+![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/PWA_4.PNG) <br><br>
 
 
 How to use our app?
