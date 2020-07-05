@@ -33,10 +33,18 @@ How to use our app?
 
 - An **Initiation quiz** is a **9-question no-timer, no-hint quiz** that simply aims to understand how much you already know about finance, specifically Banking. We will classify you into 1 of our 3 levels - **Beginner, Intermediate or Expert** based on your results:
 
+![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/Init%20Quiz_1.png) <br><br>
+
 
 - After you are done, you can proceed to register yourself with us as below from the **Register** page:
 
+![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/Register.png) <br><br>
+
+
 - If you are already a registered user, you can simply select the **Login** option from the Home Page and log in directly:
+
+![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/Login.png) <br><br>
+
 
 - After you are registered/logged in, you will be redirected to the Dashboard. The **Dashboard** is where you can attempt more quizzes, view your progress and check out the Facebook share feature! We have 4 domains on our application. Choose whichever you want to start attempting the quizzes for. If you continue with Banking, you will be directed to the **Secondary quiz**. As for the other domains, you will need to attempt the Initiation quizzes for them before proceeding to the Secondary quizzes:
 
