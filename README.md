@@ -26,7 +26,13 @@ Since, our application is a **Progressive Web Application or PWA**, you can use 
 How to use our app?
 - Starting off with our **Home Page**, if you are a new user, we would require you to attempt the **Initiation quiz** on the Banking domain:
 
+![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/Home%20Page.png) <br>
+
+![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/Init%20Quiz.png) <br><br>
+
+
 - An **Initiation quiz** is a **9-question no-timer, no-hint quiz** that simply aims to understand how much you already know about finance, specifically Banking. We will classify you into 1 of our 3 levels - **Beginner, Intermediate or Expert** based on your results:
+
 
 - After you are done, you can proceed to register yourself with us as below from the **Register** page:
 
