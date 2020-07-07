@@ -48,7 +48,7 @@ How to use our app?
 
 - After you are registered/logged in, you will be redirected to the Dashboard. The **Dashboard** is where you can attempt more quizzes, view your progress and check out the Facebook share feature! We have 4 domains on our application. Choose whichever you want to start attempting the quizzes for. If you continue with Banking, you will be directed to the **Secondary quiz**. As for the other domains, you will need to attempt the Initiation quizzes for them before proceeding to the Secondary quizzes:
 
-![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/Dashboard_1.png) <br>
+![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/Dashboard_1.png) <br><br>
 
 ![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/Dashboard_2.png) <br><br>
 
