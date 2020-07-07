@@ -48,6 +48,10 @@ How to use our app?
 
 - After you are registered/logged in, you will be redirected to the Dashboard. The **Dashboard** is where you can attempt more quizzes, view your progress and check out the Facebook share feature! We have 4 domains on our application. Choose whichever you want to start attempting the quizzes for. If you continue with Banking, you will be directed to the **Secondary quiz**. As for the other domains, you will need to attempt the Initiation quizzes for them before proceeding to the Secondary quizzes:
 
+![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/Dashboard_1.png) <br>
+
+![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/Dashboard_2.png) <br><br>
+
 - The **Secondary quiz** is a **continuous, 30-second-per-question quiz wherein we will be giving you hints (wherever required) and explanations!** You will be continuously assessed at every stage of the quiz and will be shown intermediate results as below:
 
 For every question, you will be awarded **15 points if you answer within the first 10 seconds, 10 points if you answer within 20 seconds, 5 points if you answer within 30 seconds and 0 if you answer correctly but take beyond 30 seconds**. Don't worry though, we won't deduct anything from your scores if you answer incorrectly. Answer as much correctly as you can and you will score more points and ultimately become an expert in finances!
