@@ -63,6 +63,14 @@ For every question, you will be awarded **15 points if you answer within the fir
 
 -  In case you feel like you could use with some help with the quizzes, head back to the Dashboard to go to the **Info Bites** section for a particular domain. Herein, we give you pieces of information that help you learn concepts that can help you with your quizzes:
 
+![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/Info_Bites_1.png) <br><br>
+
+![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/Info_Bites_2.png) <br><br>
+
+
 - On your Dashboard, you can also see your progress by accessing the **My Profile** Page. Herein, we show you the levels of expertise you have earned in each of the domains via the quizzes:
+
+![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/Profile.png) <br><br>
+
 
 - Finally, you can use our **Facebook Share** feature that will access your Facebook account to help you post the link to our website on your Facebook wall. This way, you can have your friends know about us and can even invite them to use our website:
