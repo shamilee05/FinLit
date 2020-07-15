@@ -46,7 +46,7 @@ How to use our app?
 ![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/Login.png) <br><br>
 
 
-- After you are registered/logged in, you will be redirected to the Dashboard. The **Dashboard** is where you can attempt more quizzes, view your progress and check out the Facebook share feature! We have 4 domains on our application. Choose whichever you want to start attempting the quizzes for. If you continue with Banking, you will be directed to the **Secondary quiz**. As for the other domains, you will need to attempt the Initiation quizzes for them before proceeding to the Secondary quizzes:
+- After you are registered/logged in, you will be redirected to the Dashboard. The **Dashboard** is where you can attempt more quizzes, view your progress and check out the Facebook share feature! We have 4 domains on our application - Banking, Tax, Loans and Investments. Choose whichever you want to start attempting the quizzes for. If you continue with Banking, you will be directed to the **Secondary quiz**. As for the other domains, you will need to attempt the Initiation quizzes for them before proceeding to the Secondary quizzes:
 
 ![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/Dashboard_1.png) <br><br>
 
@@ -60,6 +60,7 @@ How to use our app?
 
 
 For every question, you will be awarded **15 points if you answer within the first 10 seconds, 10 points if you answer within 20 seconds, 5 points if you answer within 30 seconds and 0 if you answer correctly but take beyond 30 seconds**. Don't worry though, we won't deduct anything from your scores if you answer incorrectly. Answer as much correctly as you can and you will score more points and ultimately become an expert in finances!
+
 
 -  In case you feel like you could use with some help with the quizzes, head back to the Dashboard to go to the **Info Bites** section for a particular domain. Herein, we give you pieces of information that help you learn concepts that can help you with your quizzes:
 
