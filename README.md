@@ -75,3 +75,11 @@ For every question, you will be awarded **15 points if you answer within the fir
 
 
 - Finally, you can use our **Facebook Share** feature that will access your Facebook account to help you post the link to our website on your Facebook wall. This way, you can have your friends know about us and can even invite them to use our website:
+
+![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/FB_1.png) <br><br>
+
+![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/FB_2.png) <br><br>
+
+![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/FB_3.png) <br><br>
+
+![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/FB_4.png) <br><br>
