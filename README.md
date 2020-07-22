@@ -58,6 +58,8 @@ How to use our app?
 
 ![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/Second_2.png) <br><br>
 
+![alt text](https://github.com/shamilee05/FinLit/blob/master/assets/images/Second%20Results.png) <br><br>
+
 
 For every question, you will be awarded **15 points if you answer within the first 10 seconds, 10 points if you answer within 20 seconds, 5 points if you answer within 30 seconds and 0 if you answer correctly but take beyond 30 seconds**. Don't worry though, we won't deduct anything from your scores if you answer incorrectly. Answer as much correctly as you can and you will score more points and ultimately become an expert in finances! <br><br>
 
